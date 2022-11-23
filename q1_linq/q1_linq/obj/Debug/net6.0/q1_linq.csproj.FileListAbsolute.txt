@@ -1,0 +1,15 @@
+C:\Users\drara\source\repos\practicals\q1_linq\q1_linq\obj\Debug\net6.0\q1_linq.csproj.AssemblyReference.cache
+C:\Users\drara\source\repos\practicals\q1_linq\q1_linq\obj\Debug\net6.0\q1_linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drara\source\repos\practicals\q1_linq\q1_linq\obj\Debug\net6.0\q1_linq.AssemblyInfoInputs.cache
+C:\Users\drara\source\repos\practicals\q1_linq\q1_linq\obj\Debug\net6.0\q1_linq.AssemblyInfo.cs
+C:\Users\drara\source\repos\practicals\q1_linq\q1_linq\obj\Debug\net6.0\q1_linq.csproj.CoreCompileInputs.cache
+C:\Users\drara\source\repos\practicals\q1_linq\q1_linq\bin\Debug\net6.0\q1_linq.exe
+C:\Users\drara\source\repos\practicals\q1_linq\q1_linq\bin\Debug\net6.0\q1_linq.deps.json
+C:\Users\drara\source\repos\practicals\q1_linq\q1_linq\bin\Debug\net6.0\q1_linq.runtimeconfig.json
+C:\Users\drara\source\repos\practicals\q1_linq\q1_linq\bin\Debug\net6.0\q1_linq.dll
+C:\Users\drara\source\repos\practicals\q1_linq\q1_linq\bin\Debug\net6.0\q1_linq.pdb
+C:\Users\drara\source\repos\practicals\q1_linq\q1_linq\obj\Debug\net6.0\q1_linq.dll
+C:\Users\drara\source\repos\practicals\q1_linq\q1_linq\obj\Debug\net6.0\refint\q1_linq.dll
+C:\Users\drara\source\repos\practicals\q1_linq\q1_linq\obj\Debug\net6.0\q1_linq.pdb
+C:\Users\drara\source\repos\practicals\q1_linq\q1_linq\obj\Debug\net6.0\q1_linq.genruntimeconfig.cache
+C:\Users\drara\source\repos\practicals\q1_linq\q1_linq\obj\Debug\net6.0\ref\q1_linq.dll

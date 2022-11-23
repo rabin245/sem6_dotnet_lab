@@ -1,0 +1,15 @@
+C:\Users\drara\source\repos\lab4_delegate_fileio\lab4_delegate_fileio\bin\Debug\net6.0\lab4_delegate_fileio.exe
+C:\Users\drara\source\repos\lab4_delegate_fileio\lab4_delegate_fileio\bin\Debug\net6.0\lab4_delegate_fileio.deps.json
+C:\Users\drara\source\repos\lab4_delegate_fileio\lab4_delegate_fileio\bin\Debug\net6.0\lab4_delegate_fileio.runtimeconfig.json
+C:\Users\drara\source\repos\lab4_delegate_fileio\lab4_delegate_fileio\bin\Debug\net6.0\lab4_delegate_fileio.dll
+C:\Users\drara\source\repos\lab4_delegate_fileio\lab4_delegate_fileio\bin\Debug\net6.0\lab4_delegate_fileio.pdb
+C:\Users\drara\source\repos\lab4_delegate_fileio\lab4_delegate_fileio\obj\Debug\net6.0\lab4_delegate_fileio.csproj.AssemblyReference.cache
+C:\Users\drara\source\repos\lab4_delegate_fileio\lab4_delegate_fileio\obj\Debug\net6.0\lab4_delegate_fileio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drara\source\repos\lab4_delegate_fileio\lab4_delegate_fileio\obj\Debug\net6.0\lab4_delegate_fileio.AssemblyInfoInputs.cache
+C:\Users\drara\source\repos\lab4_delegate_fileio\lab4_delegate_fileio\obj\Debug\net6.0\lab4_delegate_fileio.AssemblyInfo.cs
+C:\Users\drara\source\repos\lab4_delegate_fileio\lab4_delegate_fileio\obj\Debug\net6.0\lab4_delegate_fileio.csproj.CoreCompileInputs.cache
+C:\Users\drara\source\repos\lab4_delegate_fileio\lab4_delegate_fileio\obj\Debug\net6.0\lab4_delegate_fileio.dll
+C:\Users\drara\source\repos\lab4_delegate_fileio\lab4_delegate_fileio\obj\Debug\net6.0\refint\lab4_delegate_fileio.dll
+C:\Users\drara\source\repos\lab4_delegate_fileio\lab4_delegate_fileio\obj\Debug\net6.0\lab4_delegate_fileio.pdb
+C:\Users\drara\source\repos\lab4_delegate_fileio\lab4_delegate_fileio\obj\Debug\net6.0\lab4_delegate_fileio.genruntimeconfig.cache
+C:\Users\drara\source\repos\lab4_delegate_fileio\lab4_delegate_fileio\obj\Debug\net6.0\ref\lab4_delegate_fileio.dll

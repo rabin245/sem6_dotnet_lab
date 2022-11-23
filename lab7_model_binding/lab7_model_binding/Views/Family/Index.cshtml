@@ -1,0 +1,66 @@
+﻿@model FamilyModel
+
+@using (var form = Html.BeginForm())
+{
+    <div class="container">
+        <div class="row mt-2">
+            <div class="col-md-3">
+                @Html.LabelFor(m => m.Id)
+            </div>
+            <div class="col-md-9">
+                @Html.TextBoxFor(m => m.Id)
+            </div>
+        </div>
+        <div class="row mt-2">
+            <div class="col-md-3">
+                @Html.LabelFor(m => m.FullName)
+            </div>
+            <div class="col-md-9">
+                @Html.TextBoxFor(m => m.FullName)
+            </div>
+        </div>
+
+        <div class="row mt-2">
+            <div class="col-md-3">
+                @Html.LabelFor(m => m.Gender)
+            </div>
+            <div class="col-md-9">
+                @Html.DropDownListFor(m => m.Gender, new List<SelectListItem>
+            {
+            new SelectListItem{Text = "Select Gender", Value = "0"},
+            new SelectListItem{Text = "Male", Value = "Male"},
+            new SelectListItem{Text = "Female", Value = "Female"},
+            })
+            </div>
+        </div>
+
+        <div class="row mt-2">
+            <div class="col-md-3">
+                @Html.LabelFor(m => m.Age)
+            </div>
+            <div class="col-md-9">
+                @Html.TextBoxFor(m => m.Age, new {@type = "number"})
+            </div>
+        </div>
+
+        <div class="row mt-2">
+            <div class="col-md-3">
+                @Html.LabelFor(m => m.Relation)
+            </div>
+            <div class="col-md-9">
+                @Html.DropDownListFor(m => m.Relation,
+            new SelectList(Enum.GetValues(typeof(Relation))),
+            "Select Relation")
+            </div>
+        </div>
+
+        <div class="row mt-2">
+            <div class="col-md-3">
+                &nbsp;
+            </div>
+            <div class="col-md-9">
+                <input class="btn btn-primary" type="submit" value="Submit" />
+            </div>
+        </div>
+    </div>
+}

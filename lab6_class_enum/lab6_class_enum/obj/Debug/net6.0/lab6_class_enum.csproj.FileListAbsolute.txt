@@ -1,0 +1,15 @@
+C:\Users\drara\source\repos\practicals\lab6_class_enum\lab6_class_enum\bin\Debug\net6.0\lab6_class_enum.exe
+C:\Users\drara\source\repos\practicals\lab6_class_enum\lab6_class_enum\bin\Debug\net6.0\lab6_class_enum.deps.json
+C:\Users\drara\source\repos\practicals\lab6_class_enum\lab6_class_enum\bin\Debug\net6.0\lab6_class_enum.runtimeconfig.json
+C:\Users\drara\source\repos\practicals\lab6_class_enum\lab6_class_enum\bin\Debug\net6.0\lab6_class_enum.dll
+C:\Users\drara\source\repos\practicals\lab6_class_enum\lab6_class_enum\bin\Debug\net6.0\lab6_class_enum.pdb
+C:\Users\drara\source\repos\practicals\lab6_class_enum\lab6_class_enum\obj\Debug\net6.0\lab6_class_enum.csproj.AssemblyReference.cache
+C:\Users\drara\source\repos\practicals\lab6_class_enum\lab6_class_enum\obj\Debug\net6.0\lab6_class_enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drara\source\repos\practicals\lab6_class_enum\lab6_class_enum\obj\Debug\net6.0\lab6_class_enum.AssemblyInfoInputs.cache
+C:\Users\drara\source\repos\practicals\lab6_class_enum\lab6_class_enum\obj\Debug\net6.0\lab6_class_enum.AssemblyInfo.cs
+C:\Users\drara\source\repos\practicals\lab6_class_enum\lab6_class_enum\obj\Debug\net6.0\lab6_class_enum.csproj.CoreCompileInputs.cache
+C:\Users\drara\source\repos\practicals\lab6_class_enum\lab6_class_enum\obj\Debug\net6.0\lab6_class_enum.dll
+C:\Users\drara\source\repos\practicals\lab6_class_enum\lab6_class_enum\obj\Debug\net6.0\refint\lab6_class_enum.dll
+C:\Users\drara\source\repos\practicals\lab6_class_enum\lab6_class_enum\obj\Debug\net6.0\lab6_class_enum.pdb
+C:\Users\drara\source\repos\practicals\lab6_class_enum\lab6_class_enum\obj\Debug\net6.0\lab6_class_enum.genruntimeconfig.cache
+C:\Users\drara\source\repos\practicals\lab6_class_enum\lab6_class_enum\obj\Debug\net6.0\ref\lab6_class_enum.dll
